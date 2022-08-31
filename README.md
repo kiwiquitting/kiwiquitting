@@ -23,7 +23,7 @@ but, I might as well be blunt with it:
   
   Nowadays I just spend the day away with playing one game consistently - [Genshin Impact](https://genshin.hoyoverse.com/en/).
   
-  In the rare event that I play *other* than those two would probably be [Valorant](https://playvalorant.com/en-us/). I guess
+  In the rare event that I play *other* than that would probably be [Valorant](https://playvalorant.com/en-us/). I guess
   this kinda proves I still own a Windows laptop, eh?
   
 #### *"Call me by name - this name I can't remember, I can't connect to"*
