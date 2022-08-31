@@ -21,9 +21,9 @@ but, I might as well be blunt with it:
   My hobbies - used to - include drawing and messing around with shell scripts (my old GitHub account will tell you about it) but after an event 
   that unravelled seven years of hell I just became numb at this point. But listen, I am trying. I am getting there.
   
-  Nowadays I just spend the day away with playing two games consistently - [Valorant](https://playvalorant.com/en-us/) and [Genshin Impact](https://genshin.hoyoverse.com/en/).
+  Nowadays I just spend the day away with playing one game consistently - [Genshin Impact](https://genshin.hoyoverse.com/en/).
   
-  In the rare event that I play *other* than those two would probably be [V Rising](https://store.steampowered.com/app/1604030/V_Rising/). I guess
+  In the rare event that I play *other* than those two would probably be [Valorant](https://playvalorant.com/en-us/). I guess
   this kinda proves I still own a Windows laptop, eh?
   
 #### *"Call me by name - this name I can't remember, I can't connect to"*
@@ -48,7 +48,7 @@ but, I might as well be blunt with it:
 
 #### *"I don't want all of this to turn into what could've been - a chance at redemption"*
 
-- Right now I went back to school after three years of no signs of life (not literally, although back then I kinda with it was like that-) and it's
+- Right now I went back to school after three years of no signs of life (not literally, although back then I kinda was like that-) and it's
   a new day. A chance at redemption.
 
   Thank you for reading. I hope the repositories I have up right now will help you along the way (as I learn, of course <3).
