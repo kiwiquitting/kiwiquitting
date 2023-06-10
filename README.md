@@ -6,7 +6,8 @@
 - Bachelor of Science in Information Technology, CompSec (Formerly Animation > Programming track circa 2019)
 - started coding around 2012
 - Linux and MacOS user
-- Best achievement: turned a certain video game console into an Android tablet
+- Best achievement to some people: turned a certain video game console into an Android tablet
+- Best achievement to myself: did a pure Arch install that lasted two and a half days
 
 ##### Purpose of this account
 - Served as a storage for most codes and information
