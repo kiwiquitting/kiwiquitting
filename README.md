@@ -3,7 +3,8 @@
 ##### Info: Codename Kiwi
 
 - 1997
-- Bachelor of Science in Information Technology, CompSec (Formerly Animation > Programming track circa 2019)
+- Bachelor of Science in Information Technology, Major in SysDev
+- future game dev! (hopefully)
 - started coding around 2012
 - Linux and MacOS user
 - Best achievement to some people: turned a certain video game console into an Android tablet
